@@ -2,9 +2,7 @@
 
 This id the first file in this repo.
 
-## Ipsum Below
+## Something new
 
-skdjskdjskn sdmksdjksjd sdnskskklasdksm klsmkslklskd kssllsklskd;lskd;
+Marysia jest super
 
-
-kdkdjksjdksjdksdjksdksdjksjd MARY jest super
